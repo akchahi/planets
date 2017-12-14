@@ -4,3 +4,5 @@ one more change
 make venus.txt file for exercise 
 
 one more change for our public GitHub repository
+
+Michelle
